@@ -1,4 +1,5 @@
- Climate Tech • AI • Quantum Computing*  
+# Hi there, I'm Ramon 👋 
+Climate Tech • AI • Quantum Computing*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ramon-sundblad/)  
 [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/ramonsund)  
