@@ -1,4 +1,4 @@
-# Hi there, I'm Ramon 👋 
+# Hey! 
 Climate Tech • Web3 • AI 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ramon-sundblad/)  
