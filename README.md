@@ -1,10 +1,15 @@
 # Hey! 
-Climate Tech • Web3 • AI 
 
+I'm a Climate Tech Web3 & AI Data Engineer, and live in beautiful Patagonia Argentina. Since 2015, I’ve built systems that combine blockchain, AI, and data science to enable trustable, efficient climate finance at scale. My career has been dedicated to addressing climate and environmental challenges through technology.
+
+Contributed from AI-powered bioinformatics and Ethereum security tokens, to developing dMRV systems and climate tokenization on Cardano and Pachama.
+
+I ❤️ hiking, drone photography and expeditions.
+
+Keen on building sustainable solutions? Reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ramon-sundblad/)  
 [![X](https://img.shields.io/badge/X-Follow-black)](https://x.com/ramonsund)  
 
-My career has been dedicated to addressing climate and environmental challenges through technology. Over the years, I’ve built systems that combine blockchain, AI, and data science to enable trustable, efficient climate finance at scale.  
 
 ---
 **Achievements:**  
